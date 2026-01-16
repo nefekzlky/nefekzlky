@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently planning my next project.<br>🌱 I’m currently learning advanced Java concepts, web development fundamentals (HTML, CSS, JavaScript), and data structures.<br>⚡ Fun fact: I'm a huge science fiction fan and I believe I can make a perfect cup of coffee.
+🔭 I’m currently focusing on: Backend Architectures, Scalable Systems, and Microservices.<br>
+🌱 I’m currently learning: Go (Golang) & Django for high-performance backend solutions.<br>
+⚡ Goal: To build real-world, production-ready systems and contribute to the open-source ecosystem.
 
 
 ## 🌐 Socials:
